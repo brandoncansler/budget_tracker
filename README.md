@@ -5,7 +5,7 @@ Budget tracking app allowing a user to save transactions in bulk even when offli
 ![Screenshot](example.png)
 
 ## Heroku
-* [Click here for Heroku deployment](https://git.heroku.com/fathomless-basin-25735.git)
+* [Click here for Heroku deployment](https://fathomless-basin-25735.herokuapp.com/)
 
 ### User Story
 AS AN avid traveller
